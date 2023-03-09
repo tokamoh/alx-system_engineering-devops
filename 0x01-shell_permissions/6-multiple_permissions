@@ -1,2 +1,2 @@
 #!/bin/bash
-chmoud u+x,g+x,o+r hello
+chmoud ug+x,o+r hello
